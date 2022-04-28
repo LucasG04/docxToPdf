@@ -13,8 +13,8 @@ Disadvantage:
 
 ```javascript
 var fs = require('fs/promises');
-var convertFile = require('./index').convertFile;
-var convertBuffer = require('./index').convertBuffer;
+var convertFile = require('docxToPdf').convertFile;
+var convertBuffer = require('docxToPdf').convertBuffer;
 
 async function file() {
     var path = require('path');     
