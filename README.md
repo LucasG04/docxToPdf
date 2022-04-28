@@ -5,6 +5,7 @@ Converts a docx file to a pdf file.
 Advantages:
 - No external dependencies needed (like Libre Office)
 - No HTTP request to APIs
+
 Disadvantage:
 - Works only for simple docx files
 
